@@ -1,3 +1,10 @@
+#  QUE APRENDI Y QUE PUEDO MEJORAR
+
+Aprendi mucho de esta prueba tecnica ya es la primera vez que presento una prueba tecnica en GO ya venia estudiandolo pero los conceptos basicos y poder realizar una api rest sencilla me sirvio mucho.
+
+- Mejoraria el la conexion a la base de datos con un archivo .env o algo parecido para que la conexion a la base de datos fuera mas segura 
+- Mejoraria la conpresion de los punteros en GO para asi facilitar su implementacion esta mejora es para mi no para el programa
+  
 #  API REST de Gestión de Usuarios
 
 Esta es una API REST construida en **Go** utilizando **Gorilla Mux** para enrutamiento, **GORM** como ORM y **PostgreSQL** como base de datos. La API permite crear, leer, actualizar y eliminar usuarios.
