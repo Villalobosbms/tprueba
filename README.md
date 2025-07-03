@@ -61,7 +61,7 @@ Esto generará un archivo `.air.toml` para configuración.
 
 ## 🗄️ Configuración de la Base de Datos
 
-Asegúrate de tener una base de datos PostgreSQL creada y configura la cadena de conexión en tu archivo de entorno o directamente en el fichero que se encuentra en la ruta 
+Asegúrate de tener una base de datos PostgreSQL creada y configura la cadena de conexión directamente en el fichero que se encuentra en la ruta 
 ../db/connection en la variable
 
 c:
