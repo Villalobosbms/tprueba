@@ -67,7 +67,7 @@ Asegúrate de tener una base de datos PostgreSQL creada y configura la cadena de
 c:
 
 ```go
-var DSN = "host=localhost user=tu_usuario password=tu_contraseña dbname=tu_base port=5432 sslmode=disable"
+var DSN = "host=localhost user=tu_usuario password=tu_contraseña dbname=tu_base port=5432"
 ```
 
 ---
